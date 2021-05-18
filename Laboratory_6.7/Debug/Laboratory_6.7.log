@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(27,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(29,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(30,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(32,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(48,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(51,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(52,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Laboratory_6.7.vcxproj -> D:\ООП\Лабораторні 6\Laboratory_6.7\Debug\Laboratory_6.7.exe

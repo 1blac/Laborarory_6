@@ -1,0 +1,19 @@
+﻿  UnitTest_6.7.cpp
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(27,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(29,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(30,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(32,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(48,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(51,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.h(52,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(12,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(22,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(36,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(49,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(86,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(101,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(110,19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+D:\ООП\Лабораторні 6\Laboratory_6.7\Array.cpp(198,20): warning C4018: '<': signed/unsigned mismatch
+  UnitTest_6.7.vcxproj -> D:\ООП\Лабораторні 6\Laboratory_6.7\Debug\UnitTest_6.7.dll

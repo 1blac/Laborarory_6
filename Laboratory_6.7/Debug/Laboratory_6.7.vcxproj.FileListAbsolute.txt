@@ -1,0 +1,2 @@
+D:\ООП\Лабораторні 6\Laboratory_6.7\Debug\Laboratory_6.7.exe
+D:\ООП\Лабораторні 6\Laboratory_6.7\Debug\Laboratory_6.7.pdb
